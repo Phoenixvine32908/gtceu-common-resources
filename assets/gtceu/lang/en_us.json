@@ -1,5 +1,6 @@
 {
 	"tagprefix.fragment" : "Raw %s Fragment",
 	"tagprefix.mystical_essence" : "%s Essence",
-	"tagprefix.gravel" : "Raw %s Gravel"
+	"tagprefix.gravel" : "Raw %s Gravel",
+	"tagprefix.crystal_rose": "%s Crystal Rose",
 }
