@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "gtceu:item/material_sets/wood/mystical_essence",
+    "layer1": "gtceu:item/material_sets/wood/mystical_essence_secondary"
+  }
+}

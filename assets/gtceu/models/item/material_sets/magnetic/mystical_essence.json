@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "gtceu:item/material_sets/metallic/mystical_essence",
+    "layer1": "gtceu:item/material_sets/metallic/mystical_essence_secondary",
+    "layer2": "gtceu:item/material_sets/metallic/mystical_essence_overlay",
+    "layer2": "gtceu:item/material_sets/magnetic/magnetic_overlay"
+  }
+}
