@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "gtceu:item/material_sets/dull/mystical_essence",
-    "layer1": "gtceu:item/material_sets/dull/mystical_essence_secondary"
+    "layer0": "gtceu:item/material_sets/flint/mystical_essence",
+    "layer1": "gtceu:item/material_sets/flint/mystical_essence_secondary"
   }
 }
